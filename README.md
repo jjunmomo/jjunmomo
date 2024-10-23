@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=500&pause=1000&color=F7E0A0&center=true&random=false&width=435&lines=Hi%2C+I'm+jjunmo+%F0%9F%8C%A0" alt="Typing SVG" />
+ </a>
+</h1>
+
+<p align="center">
+  Hi, I'm currently working as a backend developer at an mBaaS company. <br>
+  <br>
+</p>
+
+<br/>
+
 
 <!--
-**jjunmomo/jjunmomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jjunmo/jjunmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
