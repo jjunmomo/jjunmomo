@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F5AC&width=435&lines=jjunmomo)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&width=435&lines=jjunmo)](https://git.io/typing-svg)
 <p align="center">
   Hi, I'm currently working as a backend developer at an mBaaS company. <br>
   <br>
